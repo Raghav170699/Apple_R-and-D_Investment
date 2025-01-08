@@ -10,29 +10,29 @@ The first step involves the collection of the relevant data from the data set pr
 
 ### R&D Investment Trends
 
-Apple's R&D expenses increased steadily from $10,045M (2016) to $14,236M (2018)
-Average R&D investment during the period: $11,954M
-Employee count grew from 116,000 (2016) to 132,000 (2018)
-Total assets showed consistent growth from $321,686M (2016) to $375,319M (2018)
+- Apple's R&D expenses increased steadily from $10,045M (2016) to $14,236M (2018)
+- Average R&D investment during the period: $11,954M
+- Employee count grew from 116,000 (2016) to 132,000 (2018)
+- Total assets showed consistent growth from $321,686M (2016) to $375,319M (2018)
 
 ### Competitive Analysis
 
-Apple maintained higher average R&D expenditure compared to competitors
-Competitor spending showed high variance, with some companies like HP Inc. investing significantly less
-Apple positioned in the mid to upper end of the market spectrum based on total assets
+- Apple maintained higher average R&D expenditure compared to competitors
+- Competitor spending showed high variance, with some companies like HP Inc. investing significantly less
+- Apple positioned in the mid to upper end of the market spectrum based on total assets
 
 ### Regression Analysis Results
 
-Positive correlation between R&D investments and total assets
-For every 1-unit increase in R&D spending, total assets increased by 27.66 units
-Model controlled for number of employees
+- Positive correlation between R&D investments and total assets
+- For every 1-unit increase in R&D spending, total assets increased by 27.66 units
+- Model controlled for number of employees
 
 ### Predictive Analysis
 
-Projected R&D expenses for 2019: $15,633M (based on historical growth)
-Predicted employee count for 2019: 137,333
-Forecasted total assets: $421,106M
-Results supported continuation of increased R&D investment strategy
+- Projected R&D expenses for 2019: $15,633M (based on historical growth)
+- Predicted employee count for 2019: 137,333
+- Forecasted total assets: $421,106M
+- Results supported continuation of increased R&D investment strategy
 
 ## Business Impact and Strategy
 
